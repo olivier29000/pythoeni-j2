@@ -44,6 +44,3 @@ eleves = [
 # utilise sorted pour trier cette liste par note croissante
 # utilise sorted pour trier cette liste par ordre alphabetique du nom de famille
 
-s = sorted(eleves, key = lambda x : x[1])
-
-print(s)

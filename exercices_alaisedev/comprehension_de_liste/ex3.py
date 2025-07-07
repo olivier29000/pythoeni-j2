@@ -43,4 +43,3 @@ eleves = [
 
 # génére la liste des élèves ayant eu moins de 8
 
-print([x for x in eleves if x[1] < 8])

@@ -46,13 +46,4 @@ eleves = [
 # utilise cette liste pour créer un dictionnaire où la clé est la note et la valeur la liste des "prénom nom" ayant eu cette note
 # exemple {..., 19 : ["Victor Perrin", "Camille Robert"]
 
-d = reduce(
-    lambda acc, x: {
-        **acc,
-        x[1]: acc.get(x[1], []) + [x[0]]
-    },
-    eleves,
-    {}
-)
 
-print(d)

@@ -12,13 +12,3 @@ eleves = [
 # en utilisant filter, crée un liste avec les élèves dont le prénom contient un a
 # en utilisant filter, crée un liste avec les élèves dont le prénom contient plus de 7 caractère
 # en utilisant filter, crée un liste avec les élèves dont le prénom fini par un d
-
-long = len(eleves)
-l1 = filter(lambda prenom : "a" in prenom, eleves)
-l2 = filter(lambda prenom : len(prenom) > 7 , eleves)
-l3 = filter(lambda prenom : prenom[-1] == "d" , eleves)
-
-print(long)
-print(list(l1))
-print(list(l2))
-print(list(l3))

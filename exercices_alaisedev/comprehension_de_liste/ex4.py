@@ -41,9 +41,3 @@ eleves = [
     ("Manon Tessier", 1)
 ]
 
-# inverse les tuples
-print([(x[1], x[0]) for x in eleves])
-# inverse les noms et prénoms
-print([(x[0].split(" ")[1] + " " + x[0].split(" ")[0], x[1] ) for x in eleves])
-# pour chaque élément rajoute un champ correspondant à la longueur du nom prenom
-print([( x[0], x[1], len(x[0])) for x in eleves])
