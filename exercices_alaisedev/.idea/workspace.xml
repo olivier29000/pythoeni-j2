@@ -5,24 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="83f222d3-b1b0-44f9-a717-dd256d11ce83" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../MO3_exercices/exercices_alaisedev/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MO3_exercices/exercices_alaisedev/.idea/exercices_alaisedev.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MO3_exercices/exercices_alaisedev/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MO3_exercices/exercices_alaisedev/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MO3_exercices/exercices_alaisedev/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MO3_exercices/exercices_alaisedev/ex1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MO3_exercices/exercices_alaisedev/ex2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MO3_exercices/exercices_alaisedev/ex3.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comprehension_de_liste/ex1.py" beforeDir="false" afterPath="$PROJECT_DIR$/comprehension_de_liste/ex1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comprehension_de_liste/ex2.py" beforeDir="false" afterPath="$PROJECT_DIR$/comprehension_de_liste/ex2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comprehension_de_liste/ex3.py" beforeDir="false" afterPath="$PROJECT_DIR$/comprehension_de_liste/ex3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comprehension_de_liste/ex4.py" beforeDir="false" afterPath="$PROJECT_DIR$/comprehension_de_liste/ex4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comprehension_de_liste/ex5.py" beforeDir="false" afterPath="$PROJECT_DIR$/comprehension_de_liste/ex5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lambda/ex1.py" beforeDir="false" afterPath="$PROJECT_DIR$/lambda/ex1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lambda/ex2.py" beforeDir="false" afterPath="$PROJECT_DIR$/lambda/ex2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lambda/ex4.py" beforeDir="false" afterPath="$PROJECT_DIR$/lambda/ex4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lambda/ex5.py" beforeDir="false" afterPath="$PROJECT_DIR$/lambda/ex5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonctions/ex1.py" beforeDir="false" afterPath="$PROJECT_DIR$/fonctions/ex1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -259,7 +243,7 @@
       <option name="presentableId" value="Default" />
       <updated>1751808842173</updated>
       <workItem from="1751808843264" duration="3017000" />
-      <workItem from="1751821327496" duration="5243000" />
+      <workItem from="1751821327496" duration="6489000" />
     </task>
     <servers />
   </component>

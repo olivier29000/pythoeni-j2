@@ -3,7 +3,8 @@
 # d'un intérimaire
 # après 8 heures de travail, les heures sont majorées de 25%, après 11heures de 50%
 
-
+def calcul_salaire_journalier(nb_heures):
+    pass
 
 
 
